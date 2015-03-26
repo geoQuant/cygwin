@@ -11,3 +11,5 @@ export CLASSPATH=$CLASSPATH:"/home/jlappen/desktop/scala_home/libraries/commons-
 export CLASSPATH=$CLASSPATH:"/home/jlappen/desktop/scala_home/libraries/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"
 
 export MAVEN_OPTS="-Xmx2G -XX:MaxPermSize=512M -XX:ReservedCodeCacheSize=512m"
+
+ssh jlappen@jonnielappen-ws
