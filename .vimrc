@@ -59,6 +59,10 @@ nnoremap <silent><A-k> :set paste<CR>m`O<Esc>``:set nopaste<CR>
 
 set mouse=a
 
+" <Ctrl-l> redraws the screen and removes any search highlight
+nnoremap <silent> <C-l> :nohl<CR><C-l>
+
+
 "----------------------------------------------------------------------------
 "Search
 "----------------------------------------------------------------------------
