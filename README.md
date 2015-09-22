@@ -12,6 +12,3 @@ My dot files and notes for setting up a Cygwin64 Terminal. The following package
 9. rxvt
 10. procps
 11. ncurses
-
-I also enjoy the dark-solarized terminal colors:
-https://github.com/karlin/mintty-colors-solarized
