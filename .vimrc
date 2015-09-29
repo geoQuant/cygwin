@@ -41,7 +41,7 @@ set title
 set titleold=""
 set titlestring=VIM:\ %F
 
-set colorcolumn=80
+set colorcolumn=81
 highlight ColorColumn ctermbg=1
 
 "tab completion
